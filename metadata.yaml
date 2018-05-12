@@ -1,0 +1,29 @@
+_repo: Ripeness-is-All_43038
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43038-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roarke, Jesse
+    gutenberg_agent_id: '41995'
+    url: http://www.gutenberg.org/2009/agents/41995
+description: Although set in a dystopian future, Jesse Roarke's short story ""Ripeness
+  is All"" takes its title from a line in Shakespeare's King Lear, and there is a
+  sense of a kind of timeless tragedy that rises to the surface in the tale. Brief
+  but beautifully written, this fable-like story underscores the fact that even the
+  most wondrous technological advances don't guarantee one's happiness.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2013-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Ripeness is All
+url: http://www.gutenberg.org/ebooks/43038
